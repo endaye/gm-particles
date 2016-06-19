@@ -25,7 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>x = room_width/2;
+            <string>///Particle Basic 101
+x = room_width/2;
 y = room_height/2;
 
 //Particle System
